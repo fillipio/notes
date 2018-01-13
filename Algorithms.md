@@ -2,6 +2,13 @@
 - Swapping need caching of one of the items, even in recursion
 - Think of objects to cache stuff for later, O(c) lookup
 
+## Topics
+### Array
+
+### Hash Table
+
+Linked List,Math,Two Pointers,String,Binary Search,Divide and Conquer,Dynamic Programming,Backtracking,Stack,Heap,Greedy,Sort,Bit Manipulation,Tree,Depth-first Search,Breadth-first Search,Union Find,Graph,Design,Topological Sort,Trie,Binary Indexed Tree,Segment Tree,Binary Search Tree,Recursion,Brainteaser,Memoization,Queue,Minimax,Reservoir Sampling,Map,Geometry"
+
 ## Leetcode
 #### Intersection of two arrays:
 - Learnt about Set ( list of values, unique )
