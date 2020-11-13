@@ -8,3 +8,8 @@
   - `str.slice(0, n) + "diff" + str.slice(n)`
 - Delete: same as above 
   - Delete char at n: `str.slice(0, n) + str.slice(n+1)`
+  
+## Tips
+- get int equivalent for characters:
+   - str.charCodeAt(0) - 97 // a: 0, b: 1..
+   - str.charCodeAT(0) - 65 / A: 0, B: 1 ..
